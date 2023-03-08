@@ -83,8 +83,7 @@ p {
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    /* change the background color to match the rest of the website and meet the accessibility requirement which is #0072bb */
-    background-color: #2589bd;
+    background-color: #0072bb;
 }
 
 .benefit-lead {
@@ -135,7 +134,7 @@ p {
     max-width: 150px;
 }
 
-.search-engine-optimization {
+#search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -162,7 +161,7 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
+#search-engine-optimization img {
     max-height: 200px;
 }
 
@@ -174,7 +173,7 @@ p {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
+#search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
