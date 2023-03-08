@@ -83,6 +83,7 @@ p {
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* change the background color to match the rest of the website and meet the accessibility requirement which is #0072bb */
     background-color: #2589bd;
 }
 
